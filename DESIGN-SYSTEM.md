@@ -1,6 +1,6 @@
 ﻿#  Bitcoin Creative - Design System
 
-Guia de estilo visual para projetos do programa Design Fundamentals.
+Guia de estilo visual para projetos do Bitcoin Creative.
 
 ---
 
@@ -10,25 +10,25 @@ Guia de estilo visual para projetos do programa Design Fundamentals.
 
 | Cor | Hex | RGB | Uso |
 |-----|-----|-----|-----|
-| ![#F7931A](https://via.placeholder.com/20/F7931A/F7931A?text=+) **Bitcoin Orange** | `#F7931A` | `rgb(247, 147, 26)` | Cor principal, CTAs, destaques |
-| ![#000000](https://via.placeholder.com/20/000000/000000?text=+) **Bitcoin Black** | `#000000` | `rgb(0, 0, 0)` | Textos, fundos escuros |
-| ![#FFFFFF](https://via.placeholder.com/20/FFFFFF/FFFFFF?text=+) **Pure White** | `#FFFFFF` | `rgb(255, 255, 255)` | Fundos claros, textos em dark mode |
+|  **Bitcoin Orange** | `#F7931A` | `rgb(247, 147, 26)` | Cor principal, CTAs, destaques |
+|  **Bitcoin Black** | `#000000` | `rgb(0, 0, 0)` | Textos, fundos escuros |
+|  **Pure White** | `#FFFFFF` | `rgb(255, 255, 255)` | Fundos claros, textos em dark mode |
 
 ### Cores Secundárias
 
 | Cor | Hex | RGB | Uso |
 |-----|-----|-----|-----|
-| ![#4D4D4D](https://via.placeholder.com/20/4D4D4D/4D4D4D?text=+) **Dark Gray** | `#4D4D4D` | `rgb(77, 77, 77)` | Textos secundários |
-| ![#E5E5E5](https://via.placeholder.com/20/E5E5E5/E5E5E5?text=+) **Light Gray** | `#E5E5E5` | `rgb(229, 229, 229)` | Bordas, divisores |
-| ![#1A1A1A](https://via.placeholder.com/20/1A1A1A/1A1A1A?text=+) **Near Black** | `#1A1A1A` | `rgb(26, 26, 26)` | Fundos de cards |
+|  **Dark Gray** | `#4D4D4D` | `rgb(77, 77, 77)` | Textos secundários |
+|  **Light Gray** | `#E5E5E5` | `rgb(229, 229, 229)` | Bordas, divisores |
+|  **Near Black** | `#1A1A1A` | `rgb(26, 26, 26)` | Fundos de cards |
 
 ### Cores de Apoio
 
 | Cor | Hex | Uso |
 |-----|-----|-----|
-| ![#10B981](https://via.placeholder.com/20/10B981/10B981?text=+) **Success Green** | `#10B981` | Confirmações, sucesso |
-| ![#EF4444](https://via.placeholder.com/20/EF4444/EF4444?text=+) **Error Red** | `#EF4444` | Erros, alertas |
-| ![#3B82F6](https://via.placeholder.com/20/3B82F6/3B82F6?text=+) **Info Blue** | `#3B82F6` | Links, informações |
+|  **Success Green** | `#10B981` | Confirmações, sucesso |
+|  **Error Red** | `#EF4444` | Erros, alertas |
+|  **Info Blue** | `#3B82F6` | Links, informações |
 
 ---
 
@@ -61,8 +61,6 @@ small { font-size: 14px; font-weight: 400; line-height: 1.5; }
 
 ##  Espaçamento
 
-### Sistema de Grid
-
 | Token | Valor | Uso |
 |-------|-------|-----|
 | `space-xs` | 4px | Micro espaçamentos |
@@ -87,12 +85,10 @@ small { font-size: 14px; font-weight: 400; line-height: 1.5; }
     padding: 12px 24px;
     border-radius: 8px;
     font-weight: 600;
-    transition: all 0.2s;
 }
 
 .btn-primary:hover {
     background: #E8850F;
-    transform: translateY(-2px);
 }
 
 /* Botão Secundário */
@@ -113,12 +109,10 @@ small { font-size: 14px; font-weight: 400; line-height: 1.5; }
     border-radius: 16px;
     padding: 24px;
     border: 1px solid #4D4D4D;
-    transition: all 0.3s;
 }
 
 .card:hover {
     border-color: #F7931A;
-    transform: translateY(-4px);
 }
 ```
 
@@ -126,27 +120,21 @@ small { font-size: 14px; font-weight: 400; line-height: 1.5; }
 
 ##  Ícones e Símbolos
 
-### Símbolo do Bitcoin
-
 ```
-  - Símbolo Unicode (U+20BF)
-Ƀ  - Símbolo alternativo (U+0243)
+  - Símbolo Bitcoin (U+20BF)
  - Lightning Network
  - Segurança/Custódia
  - Crescimento/Adoção
 ```
 
-### Recursos de Ícones
-
-- [Bitcoin Design Icons](https://bitcoinicons.com/)
+### Recursos
+- [Bitcoin Icons](https://bitcoinicons.com/)
 - [Heroicons](https://heroicons.com/)
 - [Lucide Icons](https://lucide.dev/)
 
 ---
 
 ##  Responsividade
-
-### Breakpoints
 
 | Nome | Largura | Dispositivo |
 |------|---------|-------------|
@@ -157,40 +145,16 @@ small { font-size: 14px; font-weight: 400; line-height: 1.5; }
 
 ---
 
-##  Imagens e Assets
-
-### Proporções Recomendadas
-
-| Tipo | Proporção | Uso |
-|------|-----------|-----|
-| Thumbnail | 16:9 | Cards, previews |
-| Avatar | 1:1 | Perfis, ícones |
-| Banner | 3:1 | Headers, capas |
-| Story | 9:16 | Mobile, social |
-
-### Formatos
-
-| Formato | Uso |
-|---------|-----|
-| `.svg` | Logos, ícones (vetorial) |
-| `.png` | Gráficos com transparência |
-| `.jpg` | Fotos, imagens complexas |
-| `.webp` | Web otimizado |
-
----
-
-##  Exemplos de Aplicação
+##  Aplicação
 
 ### Dark Mode (Recomendado)
 - Fundo: `#000000` ou `#1A1A1A`
-- Texto principal: `#FFFFFF`
-- Texto secundário: `#E5E5E5`
+- Texto: `#FFFFFF`
 - Destaque: `#F7931A`
 
 ### Light Mode
 - Fundo: `#FFFFFF`
-- Texto principal: `#000000`
-- Texto secundário: `#4D4D4D`
+- Texto: `#000000`
 - Destaque: `#F7931A`
 
 ---
@@ -202,4 +166,3 @@ small { font-size: 14px; font-weight: 400; line-height: 1.5; }
 *"Good design is orange."* 
 
 </div>
-
