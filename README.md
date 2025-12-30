@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Bitcoin Creative Design System
+# Bitcoin Creative Design System
 
 ### Guia de Estilo Visual para Projetos Bitcoin
 
@@ -14,34 +14,34 @@
 
 ---
 
-## 🧡 Sobre o Bitcoin Creative
+## Sobre o Bitcoin Creative
 
 > **Somos um studio-lab open source que forma, conecta e impulsiona profissionais nas áreas de design, inteligência artificial e marketing com foco na indústria do Bitcoin.**
 
 Nossa missão é capacitar criadores e estrategistas com conhecimento técnico, visão de mercado e projetos práticos que contribuam para tornar o Bitcoin mais compreensível, acessível e presente no mundo.
 
-### ✨ Nossa Filosofia
+### Nossa Filosofia
 
-- 🎓 **Treinamento com especialistas** — Domine as habilidades que a indústria do Bitcoin precisa
-- 🛠️ **Aprenda projetando** — Cada programa tem teoria e prática, para você aprender fazendo
-- 🚀 **Acelere sua carreira** — Ganhe certificados confiáveis pelas melhores equipes do setor
-- ₿ **Prêmio em Bitcoin** — O projeto final em destaque recebe premiação em Bitcoin
+- **Treinamento com especialistas** — Domine as habilidades que a indústria do Bitcoin precisa
+- **Aprenda projetando** — Cada programa tem teoria e prática, para você aprender fazendo
+- **Acelere sua carreira** — Ganhe certificados confiáveis pelas melhores equipes do setor
+- **Prêmio em Bitcoin** — O projeto final em destaque recebe premiação em Bitcoin
 
 ---
 
-## 📖 Sobre Este Design System
+## Sobre Este Design System
 
 Este é o **Design System oficial** do Bitcoin Creative — um conjunto de diretrizes, componentes e recursos visuais para manter consistência em todos os nossos programas e projetos.
 
 Use este guia para:
-- 🎨 Manter consistência visual entre projetos
-- 🔤 Escolher tipografia adequada
-- 📐 Aplicar espaçamentos corretos
-- 🧩 Criar componentes padronizados
+- Manter consistência visual entre projetos
+- Escolher tipografia adequada
+- Aplicar espaçamentos corretos
+- Criar componentes padronizados
 
 ---
 
-## 📚 Documentação
+## Documentação
 
 | Documento | Descrição |
 |-----------|-----------|
@@ -49,7 +49,7 @@ Use este guia para:
 
 ---
 
-## 🎨 Cores Principais
+## Cores Principais
 
 | Cor | Nome | Hex | Uso |
 |:---:|------|-----|-----|
@@ -74,7 +74,7 @@ Use este guia para:
 
 ---
 
-## 🔤 Fontes
+## Fontes
 
 | Fonte | Uso | Preview |
 |-------|-----|---------|
@@ -84,19 +84,19 @@ Use este guia para:
 
 ---
 
-## 🌐 Programas que utilizam
+## Programas que utilizam
 
 | Programa | Status | Descrição |
 |----------|--------|-----------|
-| [Design Fundamentals](https://github.com/Bitcoin-Creative/Design-Fundamentals) | ✅ Concluído | Fundamentos essenciais de design e design thinking aplicados ao universo Bitcoin |
-| [UX/UI Design](https://tally.so/r/w4l6bb) | 📋 Lista de Espera | Design de interfaces e experiências digitais para produtos Bitcoin |
-| [GenIA](https://tally.so/r/wdJMMz) | 📋 Lista de Espera | Ferramentas de IA aplicadas ao design e criação de conteúdo |
-| [Nostr Creative](https://tally.so/r/w29WWp) | 📋 Lista de Espera | Criação e distribuição descentralizada no protocolo Nostr |
-| [Marketing 360º](https://tally.so/r/npYEQV) | 📋 Lista de Espera | Estratégias de growth marketing para produtos Bitcoin |
+| [Design Fundamentals](https://github.com/Bitcoin-Creative/Design-Fundamentals) | Concluído | Fundamentos essenciais de design e design thinking aplicados ao universo Bitcoin |
+| [UX/UI Design](https://tally.so/r/w4l6bb) | Lista de Espera | Design de interfaces e experiências digitais para produtos Bitcoin |
+| [GenIA](https://tally.so/r/wdJMMz) | Lista de Espera | Ferramentas de IA aplicadas ao design e criação de conteúdo |
+| [Nostr Creative](https://tally.so/r/w29WWp) | Lista de Espera | Criação e distribuição descentralizada no protocolo Nostr |
+| [Marketing 360º](https://tally.so/r/npYEQV) | Lista de Espera | Estratégias de growth marketing para produtos Bitcoin |
 
 ---
 
-## 📜 Licença
+## Licença
 
 MIT License — Livre para uso em projetos Bitcoin.
 
@@ -104,10 +104,10 @@ MIT License — Livre para uso em projetos Bitcoin.
 
 <div align="center">
 
-## 🔗 Conecte-se
+## Conecte-se
 
 [![Website](https://img.shields.io/badge/Website-bitcoincreative.org-F7931A?style=for-the-badge)](https://bitcoincreative.org)
-[![Twitter](https://img.shields.io/badge/𝕏-@bitcoincreativ-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bitcoincreativ)
+[![Twitter](https://img.shields.io/badge/X-@bitcoincreativ-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bitcoincreativ)
 [![Nostr](https://img.shields.io/badge/Nostr-npub1cda...c8sur-8B5CF6?style=for-the-badge)](https://njump.me/npub1cdal5mq7npz2c0tk8lq9u2h3xggpq3s0l5667n3t3rq2s435yhdqqc8sur)
 [![Email](https://img.shields.io/badge/Email-hello@bitcoincreative.org-F7931A?style=for-the-badge)](mailto:hello@bitcoincreative.org)
 
